@@ -21,7 +21,7 @@
 
 ---
 
-## 🧰 Мой стек технологий
+## 🧰 Мой стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
