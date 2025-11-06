@@ -7,6 +7,9 @@
 🚀 FastAPI | Aiogram | AsyncIO | Docker | Git  
 📍 Санкт-Петербург | Работаю дистанционно  
 
+<img src="https://tse1.mm.bing.net/th/id/OIP.7ltdZrGDWFTgapGC5AUmrwAAAA?w=310&h=248&c=7&p=0" width="200"/>
+
+
 ---
 
 ## 💡 Немного обо мне
