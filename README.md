@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут Ренат
+# Привет! Меня зовут Ренат :)
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
