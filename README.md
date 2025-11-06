@@ -2,9 +2,9 @@
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
-🎓 Студент 2 курса СПбПУ  
+🎓 Студент 2 курса Санкт-Петербургского Политихнического университета Петра Великого  
 💻 Начинающий backend- и Python-разработчик  
-🚀 FastAPI | Aiogram | AsyncIO | Docker | Git  
+🚀 Python 3 | FastAPI | Aiogram | AsyncIO | Docker | Git  
 📍 Санкт-Петербург | Работаю дистанционно  
 
 <img src="https://giffiles.alphacoders.com/297/2976.gif" width="100%" style="height:auto; border-radius:10px;"/>
