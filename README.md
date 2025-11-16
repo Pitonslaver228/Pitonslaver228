@@ -4,7 +4,7 @@
 
 🎓 Студент 2 курса Санкт-Петербургского Политихнического университета Петра Великого  
 💻 Начинающий backend- и Python-разработчик  
-🚀 Python 3 | FastAPI | Aiogram | AsyncIO | Docker | Git  
+🚀 Python 3 | FastAPI | Flask | Aiogram | AsyncIO | Docker | Git  
 📍 Санкт-Петербург | Работаю дистанционно  
 
 <img src="https://giffiles.alphacoders.com/297/2976.gif" width="100%" style="height:auto; border-radius:10px;"/>
@@ -25,6 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Aiogram-333?style=for-the-badge&logo=telegram" />
   <img src="https://img.shields.io/badge/-AsyncIO-333?style=for-the-badge&logo=python" />
