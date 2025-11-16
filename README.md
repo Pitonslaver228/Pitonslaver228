@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Aiogram-333?style=for-the-badge&logo=telegram" />
   <img src="https://img.shields.io/badge/-AsyncIO-333?style=for-the-badge&logo=python" />
