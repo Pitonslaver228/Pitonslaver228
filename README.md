@@ -38,7 +38,7 @@
 
 ## 🚀 Мои проекты
 
-### 🔹 [Анонимный чат](https://github.com/Pitonslaver228/students-schedule-bot)
+### 🔹 [Telegram-бот с учебным расписанием ИСПО](https://github.com/Pitonslaver228/students-schedule-bot)
 > Telegram-бот с учебным расписанием для студентов ИСПО СПбПУ им. Петра Великого.  
 > **Технологии:** Python, aiogram, aiosqlite, asyncio.
 
