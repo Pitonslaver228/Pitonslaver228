@@ -1,10 +1,9 @@
-# Привет! Меня зовут Ренат :)
-
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/> 
+# Привет! Меня зовут Ренат :)
 
 ---
 
-## 💡 Немного обо мне
+## 💡 About Me
 
 🎓 Студент 4 курса Санкт-Петербургского Политихнического университета Петра Великого
 
@@ -20,7 +19,7 @@
 
 ---
 
-## 🧰 Мой стек
+## 🧰 My Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
@@ -37,7 +36,7 @@
 
 ---
 
-## 🚀 Мои проекты
+## 🚀 My Projects
 
 ### 🔹 [Telegram-бот с учебным расписанием ИСПО](https://github.com/Pitonslaver228/students-schedule-bot)
 > Telegram-бот с учебным расписанием для студентов ИСПО СПбПУ им. Петра Великого.  
@@ -57,7 +56,7 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pitonslaver228&show_icons=true&theme=tokyonight" height="150"/>
@@ -66,7 +65,7 @@
 
 ---
 
-## 📫 Контакты
+## 📫 Contacts
 
 📧 [Email: gaibatovrenat@yandex.ru](mailto:gaibatovrenat@yandex.ru)  
 
