@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/-Redis-333?style=for-the-badge&logo=redis" />
   <img src="https://img.shields.io/badge/-RabbitMQ-333?style=for-the-badge&logo=rabbitmq" />
   <img src="https://img.shields.io/badge/-Kafka-333?style=for-the-badge&logo=kafka" />
@@ -44,7 +45,7 @@
 
 ---
 
-### 🔹 [Анонимный чат](https://github.com/Pitonslaver228/anonymous-chat-bot)
+### 🔹 [Telegram-бот Анонимный чат](https://github.com/Pitonslaver228/anonymous-chat-bot)
 > Telegram-бот, соединяющий случайных пользователей для общения.  
 > **Технологии:** Python, aiogram, aiosqlite, asyncio.
 
@@ -68,5 +69,4 @@
 ## 📫 Контакты
 
 📧 [Email: gaibatovrenat@yandex.ru](mailto:gaibatovrenat@yandex.ru)  
-💬 [Telegram: @zazagr0wer](https://t.me/zazagr0wer)
 
