@@ -1,23 +1,17 @@
 # Привет! Меня зовут Ренат :)
 
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-
-🎓 Студент 2 курса Санкт-Петербургского Политихнического университета Петра Великого  
-💻 Начинающий backend- и Python-разработчик  
-🚀 Python 3 | FastAPI | Flask | Aiogram | AsyncIO | Docker | Git  
-📍 Санкт-Петербург | Работаю дистанционно  
-
-<img src="https://giffiles.alphacoders.com/297/2976.gif" width="100%" style="height:auto; border-radius:10px;"/>
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/> 
 
 ---
 
 ## 💡 Немного обо мне
 
-- 🧠 Изучаю backend-разработку и автоматизацию.  
-- ⚙️ Люблю чистый код, архитектуру и асинхронность.
-- 🤖 Создаю Telegram-ботов на Python 
-- 🐧 Работал с C, C++ и Assembler — чтобы глубже понимать устройство программ и компьютеров.  
-- 🎯 Стремлюсь совмещать разработку личных проектов и учебу, чтобы стать настоящим профессионалом в сфере IT.  
+🎓 Студент 4 курса Санкт-Петербургского Политихнического университета Петра Великого
+🧠 Backend-developer на Python с актуальным стеком
+🤖 Разрабатываю Web-приложения, Telegram-ботов и Mini Apps  
+🐧 Работал с низким уровнем на C/C++, Assembler и даже собирал ячейку памяти на логических элементах - упреки "системной" элиты не воспринимаю xD     
+⚙️ Люблю чистый код без костылей и продуманную архитектуру 
+❤️ Несу добро людям через призму IT
 
 ---
 
@@ -25,11 +19,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Aiogram-333?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/-AsyncIO-333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Redis-333?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-333?style=for-the-badge&logo=rabbitmq" />
+  <img src="https://img.shields.io/badge/-Kafka-333?style=for-the-badge&logo=kafka" />
   <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
 </p>
