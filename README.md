@@ -1,6 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/> 
-
-# Привет! Меня зовут Ренат :)
+<p align="center">
+  <img src="assets/hello-renat.png" alt="Python code" width="700" />
+</p>
 
 ---
 
