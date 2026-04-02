@@ -57,11 +57,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pitonslaver228&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitonslaver228&layout=compact&theme=tokyonight" height="150"/>
+  <img src="./metrics.svg" alt="GitHub metrics" />
+</p>
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pitonslaver228/Pitonslaver228/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
