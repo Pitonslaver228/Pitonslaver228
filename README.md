@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ray-so-export.png" alt="Python code" width="700" />
+  <img src="assets/ray-so-export (1).png" alt="Python code" width="700" />
 </p>
 
 ---
