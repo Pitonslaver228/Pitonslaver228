@@ -39,6 +39,11 @@
 
 ## 🚀 My Projects
 
+### 🔹 [Оболочка на FastAPI для общения с ИИ Gemini](https://github.com/Pitonslaver228/fastapi-ai-pet-project) 
+> **Технологии:** Python, FastAPI, aiosqlite.
+
+---
+
 ### 🔹 [Telegram-бот с учебным расписанием ИСПО](https://github.com/Pitonslaver228/students-schedule-bot)
 > Telegram-бот с учебным расписанием для студентов ИСПО СПбПУ им. Петра Великого.  
 > **Технологии:** Python, aiogram, aiosqlite, asyncio.
