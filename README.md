@@ -40,6 +40,7 @@
 ## 🚀 My Projects
 
 ### 🔹 [Оболочка на FastAPI для общения с ИИ Gemini](https://github.com/Pitonslaver228/fastapi-ai-pet-project) 
+> Принимает промт, отдает ответ от Gemini API, хранит историю (локально) промтов по IP пользователя
 > **Технологии:** Python, FastAPI, aiosqlite.
 
 ---
