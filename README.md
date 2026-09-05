@@ -10,14 +10,6 @@
 
 • Backend-developer на Python с актуальным стеком
 
-• Разрабатываю Web-приложения, Telegram-ботов и Mini Apps  
-
-• Работал с низким уровнем на C/C++, Assembler и даже собирал ячейку памяти на логических элементах - упреки "системной" элиты не воспринимаю xD     
-
-• Люблю чистый код без костылей и продуманную архитектуру
-
-• Несу добро людям через призму IT
-
 ---
 
 ## 🧰 My Stack
@@ -41,25 +33,19 @@
 
 ### 🔹 [Оболочка на FastAPI для общения с ИИ Gemini](https://github.com/Pitonslaver228/fastapi-ai-pet-project) 
 > Принимает промт, отдает ответ от Gemini API, хранит историю (локально) промтов по IP пользователя
-> **Технологии:** Python, FastAPI, aiosqlite.
+> **Stack:** Python, FastAPI, aiosqlite.
 
 ---
 
 ### 🔹 [Telegram-бот с учебным расписанием ИСПО](https://github.com/Pitonslaver228/students-schedule-bot)
 > Telegram-бот с учебным расписанием для студентов ИСПО СПбПУ им. Петра Великого.  
-> **Технологии:** Python, aiogram, aiosqlite, asyncio.
+> **Stack:** Python, aiogram, aiosqlite, asyncio.
 
 ---
 
 ### 🔹 [Telegram-бот Анонимный чат](https://github.com/Pitonslaver228/anonymous-chat-bot)
 > Telegram-бот, соединяющий случайных пользователей для общения.  
-> **Технологии:** Python, aiogram, aiosqlite, asyncio.
-
----
-
-### 🔹 [Telegram-бот для поиска арбитражных связок](https://github.com/Pitonslaver228/crypto-arbitrage-bot)
-> Автоматический поиск и анализ цен на криптовалютных биржах, вычисление арбитражных возможностей, работа с API.  
-> **Технологии:** Python, aiogram, asyncio, REST API.
+> **Stack:** Python, aiogram, aiosqlite, asyncio.
 
 ---
 
