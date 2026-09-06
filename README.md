@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 • Студент 4 курса Санкт-Петербургского Политихнического университета Петра Великого
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 My Stack
+## My Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 ### 🔹 [Оболочка на FastAPI для общения с ИИ Gemini](https://github.com/Pitonslaver228/fastapi-ai-pet-project) 
 > Принимает промт, отдает ответ от Gemini API, хранит историю (локально) промтов по IP пользователя
