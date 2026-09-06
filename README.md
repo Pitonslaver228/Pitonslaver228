@@ -31,19 +31,19 @@
 
 ## My Projects
 
-### 🔹 [Оболочка на FastAPI для общения с ИИ Gemini](https://github.com/Pitonslaver228/fastapi-ai-pet-project) 
+### • [Оболочка на FastAPI для общения с ИИ Gemini](https://github.com/Pitonslaver228/fastapi-ai-pet-project) 
 > Принимает промт, отдает ответ от Gemini API, хранит историю (локально) промтов по IP пользователя
 > **Stack:** Python, FastAPI, aiosqlite.
 
 ---
 
-### 🔹 [Telegram-бот с учебным расписанием ИСПО](https://github.com/Pitonslaver228/students-schedule-bot)
+### • [Telegram-бот с учебным расписанием ИСПО](https://github.com/Pitonslaver228/students-schedule-bot)
 > Telegram-бот с учебным расписанием для студентов ИСПО СПбПУ им. Петра Великого.  
 > **Stack:** Python, aiogram, aiosqlite, asyncio.
 
 ---
 
-### 🔹 [Telegram-бот Анонимный чат](https://github.com/Pitonslaver228/anonymous-chat-bot)
+### • [Telegram-бот Анонимный чат](https://github.com/Pitonslaver228/anonymous-chat-bot)
 > Telegram-бот, соединяющий случайных пользователей для общения.  
 > **Stack:** Python, aiogram, aiosqlite, asyncio.
 
